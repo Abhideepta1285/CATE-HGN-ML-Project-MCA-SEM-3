@@ -1,4 +1,4 @@
-# CATE-HGN-ML-Project-MCA-SEM-
+# CATE-HGN-ML-Project-MCA-SEM-3
 
 # CATE-HGN: Citation Prediction Using Heterogeneous Graph Neural Networks
 
@@ -87,3 +87,5 @@ Additional memory-saving techniques:
 This project is an experimental, simplified CATE-HGN-style implementation. It does not yet reproduce every component of the original research paper. Results should not be presented as an exact reproduction of the published CATE-HGN results.
 
 The initial dataset size is intentionally limited to 500 papers to establish a stable execution pipeline before scaling up.
+
+## Implemented By Abhideepta(2571031)
