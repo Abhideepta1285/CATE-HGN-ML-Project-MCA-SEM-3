@@ -88,4 +88,4 @@ This project is an experimental, simplified CATE-HGN-style implementation. It do
 
 The initial dataset size is intentionally limited to 500 papers to establish a stable execution pipeline before scaling up.
 
-## Implemented By Abhideepta(2571031)
+## Implemented By Abhideepta
